@@ -1,0 +1,44 @@
+.buttonstyle{
+    width:70px;
+    background-color: rgb(24, 6, 115);
+    border-style: none;
+    color:#fff;
+    border-radius: 3px;
+}
+.stocksrow{
+    margin:5px;
+}
+#stockslistdiv
+{
+    display: flex;
+    flex-direction: column;
+    justify-content:flex-start;
+    padding-left: 150px;
+    color:white;
+}
+#stockdetails
+{
+    padding-left: 15px;;
+}
+#stockdescription
+{
+    color: #fff;
+    font-size: 12px;
+    padding-bottom: 20px;
+}
+#stockdetailsheader
+{
+    font-size: 22px;
+    font-weight: 600;
+    color: #fff;
+    padding-bottom: 10px;
+}
+.timebutton
+{
+    color:white;
+    font-size: 16px;
+    background-color: blue;
+    margin:10px;
+    padding:2px;
+    border-radius:4px;
+}
